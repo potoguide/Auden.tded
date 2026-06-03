@@ -1,4 +1,4 @@
-﻿$dllUrl = "https://raw.githubusercontent.com/potoguide/audendll.audne/main/67.dll"
+﻿$dllUrl = "https://raw.githubusercontent.com/potoguide/Auden.tded/main/67.dll"
 $procName = "FiveM_GTAProcess"
 
 Write-Host ""
